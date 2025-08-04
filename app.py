@@ -29,7 +29,7 @@ COLLECTION_NAME = "vip_summaries"
 USERS_COLLECTION = "users"
 
 # Gemini API Configuration
-API_KEY = "AIzaSyDT5rWpxc0zbZhaYK2BIO6LcKrYqQd2Jb4"
+API_KEY = "<Gemini api key>"
 API_URL = "https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent"
 
 # --- Database Initialization ---
